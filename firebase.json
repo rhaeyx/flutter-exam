@@ -1,0 +1,14 @@
+{
+	"flutter": {
+		"platforms": {
+			"dart": {
+				"lib/firebase_options.dart": {
+					"projectId": "t2024cs3-univents",
+					"configurations": {
+						"web": "1:942814661449:web:2eaf8f08faa79e64d32898"
+					}
+				}
+			}
+		}
+	}
+}
