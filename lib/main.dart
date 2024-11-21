@@ -19,6 +19,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ShadApp.material(
+        debugShowCheckedModeBanner: false,
         title: 'UniVents',
         darkTheme: ShadThemeData(
           brightness: Brightness.dark,
